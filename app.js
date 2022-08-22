@@ -21,8 +21,6 @@ const userRoutes = require('./routes/users');
 
 const campgroundRoutes = require('./routes/touristPlaces');
 
-
-
 const reviewRoutes = require('./routes/reviews');
 
 const MongoDBStore = require("connect-mongo")(session);
