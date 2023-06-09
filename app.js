@@ -120,7 +120,7 @@ app.use(
                 "blob:",
                 "data:",
                 //"https://res.cloudinary.com/douqbebwk/", //SHOULD MATCH YOUR CLOUDINARY ACCOUNT! 
-                "https://res.cloudinary.com/dne9twhbc/",
+                "https://res.cloudinary.com/dpobbn72x/",
                 "https://images.unsplash.com",
             ],
             fontSrc: ["'self'", ...fontSrcUrls],
